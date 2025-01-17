@@ -1,5 +1,3 @@
-def hello():
-    pass
-#sedond change
-def pa():
-    pass
+a=int(input())
+b=int(input())
+print(a+b)
